@@ -1,0 +1,12 @@
+img
+{
+	margin-left:150px;
+	margin-top:50px;
+	border: 50px solid transparent;
+	border-image:url(../images/frame1.jpg) 13% 17% 14% 15%;
+}
+
+/* Here in the above code snippet,
+Line 5 : Border property has to be specified for border-image property to work.
+Line 6 : Border image is applied with an image slice value of 10%.
+Line 6 : The image is stretched at the edges, since there is no border-repeat value specified.Stretch is the default value. */
