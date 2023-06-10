@@ -1,0 +1,11 @@
+section #pid {
+    color: green;
+}
+
+#sid #pid {
+    color: blue;
+}
+
+section.sclass p#pid.pclass {
+    color: orange !important;
+}

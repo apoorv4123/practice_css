@@ -1,0 +1,10 @@
+#sid {
+    color: red;
+}
+p {
+    color: green;
+}
+div {
+    color: blue;
+    border: 2px solid orange;
+}
