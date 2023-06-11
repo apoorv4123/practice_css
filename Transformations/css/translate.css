@@ -1,0 +1,16 @@
+img
+{
+   width:200px;
+   height:200px;
+   border:1px solid black;
+}
+img#translate
+{
+   width:200px;
+   height:200px;
+   border:1px solid black;
+   transform:translate(45px,70px);
+}
+
+/* Here in the above code snippet,
+Line 12: The translate transformation is applied to the image. */

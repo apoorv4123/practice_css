@@ -1,0 +1,17 @@
+img
+{
+   width:200px;
+   height:200px;
+   border:1px solid black;;
+}
+img#scale
+{
+   width:200px;
+   height:200px;
+   border:1px solid black;
+   margin-top:70px;
+   transform:scale(1.5,1.5);
+}
+
+/* Here in the above code snippet,
+Line 13: The scale transformation is applied to the image. */

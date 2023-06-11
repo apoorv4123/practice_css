@@ -1,0 +1,17 @@
+img
+{
+width:200px;
+height:200px;
+border:1px solid #440000;
+}
+img#skew
+{
+width:200px;
+height:200px;
+border:1px solid #440000;
+margin-top:70px;
+transform:skew(30deg,20deg);
+}
+
+/* Here in the above code snippet,
+Line 13: The skew transformation is applied to the image. */

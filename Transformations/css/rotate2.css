@@ -1,0 +1,7 @@
+table tr:hover{
+    transform:rotate(5deg);
+    background-color:#aaa;
+}
+
+/* The above page has the below features added
+Whenever we hover on any of the rows of the table the row rotates */

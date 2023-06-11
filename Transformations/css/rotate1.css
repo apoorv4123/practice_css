@@ -1,0 +1,17 @@
+img
+{
+   width:200px;
+   height:200px;
+   border:1px solid black;
+}
+img#rotate
+{
+   width:200px;
+   height:200px;
+   border:1px solid black;
+   margin-top:70px;
+   transform:rotate(45deg);
+}
+
+/* Here in the above code snippet,
+Line 13: The rotate transformation is applied to the image. */
