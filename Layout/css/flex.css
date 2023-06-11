@@ -1,0 +1,8 @@
+.flex-container {
+    display: flex;
+    background-color: lightgrey;
+  }
+  
+  .flex-container > div {
+    margin: 10px;
+  }
