@@ -1,0 +1,18 @@
+body {
+    background-color:HSLA(187,100%,42%,0.22);
+}
+@media (max-width: 500px) {
+    body {
+        background-color:HSLA(64,100%,62%,0.45);
+    }
+}
+
+/* Here in the above code snippet:
+Line 5: When the width of the document is less than 500px the 
+background-color is light-blue otherwise it is light-yellow. */
+
+/* NOTE: 
+Breakpoints have to be carefully added while working with Media queries.
+It is preferred to use ‘em’ while defining media queries, other than pixels.
+Make use of the min-width feature of a media query to achieve responsiveness.
+The output shown above may vary depending on which browser you are using. */
